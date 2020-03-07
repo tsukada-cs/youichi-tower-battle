@@ -1,2 +1,2 @@
-# youichi-tower-buttle
-This is a Youichi Tower Buttle's open repository
+# youichi-tower-battle
+This is a Youichi Tower Battle's open repository
